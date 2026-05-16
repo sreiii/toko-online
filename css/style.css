@@ -4,9 +4,9 @@ body {
 }
 
 header {
-    background-color: #e53935;
-    padding: 20px;
-    letter-spacing: 1px;
+    background-color: red;
+    padding: 50px;
+    border: 5px solid black;
 }
 
 nav a {
